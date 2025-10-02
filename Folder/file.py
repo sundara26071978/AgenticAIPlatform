@@ -30,4 +30,8 @@ def factorial(n: int) -> int:
         result *= i
     return result   
 
+def subtract(a: int, b: int) -> int:
+    """Subtract two numbers."""
+    return a - b
+
 
